@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Interceptor"
+    }
+  },
+  "defaultProject": "Interceptor",
+  "cli": {
+    "analytics": false
+  }
 }
